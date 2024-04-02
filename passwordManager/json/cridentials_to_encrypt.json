@@ -1,0 +1,14 @@
+{
+    "cridentials": [
+        {"site": "site1", "login": "69681348ee58999ec4d100314d326644", "password": "69681348ee58999ec4d100314d326644"},
+        {"site": "site2", "login": "fd0391bec3603dcd958899ed080e994d", "password": "fd0391bec3603dcd958899ed080e994d"},
+        {"site": "site3", "login": "6a2ec7036a6e9768636de870c2ba0eab", "password": "6a2ec7036a6e9768636de870c2ba0eab"},
+        {"site": "site4", "login": "ce43ef8e87fcb524266f54cd57079a8f", "password": "ce43ef8e87fcb524266f54cd57079a8f"},
+        {"site": "site5", "login": "783f5ce1635d1ec8391aac58a232a177", "password": "783f5ce1635d1ec8391aac58a232a177"},
+        {"site": "site6", "login": "66c62c2d5a9a69183609d23c37b4e0b3", "password": "66c62c2d5a9a69183609d23c37b4e0b3"},
+        {"site": "site7", "login": "403ca41126c2332421955c579c5aafde", "password": "403ca41126c2332421955c579c5aafde"},
+        {"site": "site8", "login": "bc8495984b86f3cb834d0ede2c443b90", "password": "bc8495984b86f3cb834d0ede2c443b90"},
+        {"site": "site9", "login": "fc6cb45a5723946a31ed3443642906c3", "password": "fc6cb45a5723946a31ed3443642906c3"},
+        {"site": "site10", "login": "213a4bd1a90ef7955bd03f7b8d087596", "password": "213a4bd1a90ef7955bd03f7b8d087596"}
+    ]
+}
